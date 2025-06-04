@@ -1,0 +1,10 @@
+file 'f3673688-f274-49bc-afae-d093855173fc.jpg'
+duration 1
+file 'a33545e1-bc81-47ba-ad67-5ff5721f4619.jpg'
+duration 1
+file '702bd557-c94b-45f3-83d1-d50dbdae36d4.jpg'
+duration 1
+file '1e256a03-7543-428a-8228-8ad21ed019e8.jpg'
+duration 1
+file '6.jpeg'
+duration 1

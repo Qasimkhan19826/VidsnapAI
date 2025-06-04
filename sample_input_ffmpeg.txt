@@ -1,0 +1,10 @@
+file 'static/Qasim.jpg'
+duration 1
+file 'static/Asim.jpg'
+duration 1
+file 'static/3.jpg'
+duration 1
+file 'static/2.jpg'
+duration 1
+file 'static/5.jpg'
+duration 1
