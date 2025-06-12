@@ -1,13 +1,5 @@
-Flask
-render_template
-request
-uuid
-werkzeug
-os
-text_to_audio
-time
-subprocess
-elevenlabs
-elevenlabs-client
-config
+flask
 gunicorn
+werkzeug
+uuid
+elevenlabs
